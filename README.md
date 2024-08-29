@@ -1,3 +1,3 @@
 # python-challenge-1
 
-the solution is in the file named "menu.py"
+The solution for this challenge is in the file named "menu.py".
